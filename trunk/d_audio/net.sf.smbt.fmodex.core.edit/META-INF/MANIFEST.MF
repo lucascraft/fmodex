@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: net.sf.smbt.fmodex.core.edit;singleton:=true
+Bundle-Version: 0.5.0.qualifier
+Bundle-ClassPath: .
+Bundle-Activator: net.sf.smbt.fmodex.core.ezaudio.provider.EzaudioEditPlugin$Implementation
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: net.sf.smbt.fmodex.core.ezaudio.provider
+Require-Bundle: org.eclipse.core.runtime,
+ net.sf.smbt.fmodex.core;bundle-version="0.5.0";visibility:=reexport,
+ org.eclipse.emf.edit;bundle-version="2.8.0";visibility:=reexport,
+ org.fmodex;bundle-version="0.5.0"
+Bundle-ActivationPolicy: lazy

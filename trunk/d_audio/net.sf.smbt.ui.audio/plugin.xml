@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="device" name="Device Widget" schema="schema/device.exsd"/>
+<!--
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="net.sf.smbt.ui.audio.view.AudioPreviewView"
+            id="net.sf.smbt.ui.audio.AudioView"
+            name="Audio"
+            restorable="true">
+      </view>
+      <view
+            class="net.sf.smbt.ui.audio.view.FmodexLiveView"
+            icon="icons/audio.png"
+            id="net.sf.smbt.ui.audio.fmodexLive"
+            name="Fmodex"
+            restorable="true">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            class="net.sf.smbt.ui.audio.ui.AudioPerspectiveFactory"
+            icon="icons/music.png"
+            id="net.sf.smbt.ui.audio.perspective"
+            name="Audio">
+      </perspective>
+   </extension>
+ -->
+   <!--
+   <extension
+         point="org.eclipse.ui.navigator.navigatorContent">
+	<navigatorContent
+		name="Fmodex Audio File"
+      	id="net.sf.smbt.ui.audio.dnd.FmodexAudioFileDropAdapterAssistant">
+       	<dropAssistant
+             id="net.sf.smbt.ui.audio.dnd.FmodexAudioFileDropAdapterAssistant" 
+             class="net.sf.smbt.ui.audio.dnd.FmodexAudioFileDropAdapterAssistant"
+             >
+          <possibleDropTargets>
+          	<instanceof
+                 value="java.lang.Object">
+          	</instanceof>
+          </possibleDropTargets>
+       </dropAssistant>
+	</navigatorContent>
+   </extension>
+   -->
+   <extension
+         point="net.sf.smbt.ui.audio.device">
+      <device
+            ID="SpectrumWidget"
+            widget="net.sf.smbt.ui.audio.widgets.SpectrumWidget">
+      </device>
+   </extension>
+   <extension
+         point="org.eclipse.core.contenttype.contentTypes">
+      <content-type
+            file-extensions="mp3"
+            id="net.sf.smbt.ui.audio.content-type.mp3"
+            name="mp3"
+            priority="normal">
+         <describer
+               class="net.sf.smbt.ui.audio.Mp3ContentDescriber">
+         </describer>
+      </content-type>
+      <file-association
+            content-type="net.sf.smbt.ui.audio.content-type.mp3"
+            file-extensions="mp3"
+            file-names="MP3">
+      </file-association>
+   </extension>
+
+
+</plugin>

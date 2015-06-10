@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: X86
+Bundle-SymbolicName: org.fmodex.macosx.x86
+Bundle-Version: 0.5.0.qualifier
+Bundle-Vendor: www.fmod.org
+Fragment-Host: org.fmodex;bundle-version="0.5.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: lib/NativeFmodDesigner-mac.jar,
+ lib/NativeFmodEx-mac.jar,
+ .
+Eclipse-PlatformFilter: (& (osgi.os=macosx) (osgi.arch=x86))

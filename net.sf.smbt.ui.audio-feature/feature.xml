@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.sf.smbt.ui.audio"
+      label="Audio Fmodex UI (Incubation)"
+      version="0.5.0.qualifier"
+      provider-name="ubiquisense.com">
+
+   <description url="http://ubiquisense.com/p/ubiquisense/description/description.html">
+      Audio UI based on Fmodex native lib
+   </description>
+
+   <copyright url="http://ubiquisense.com/p/ubiquisense/copyright/copyright.html">
+      Ubiquisense - A smart ambient utilities framework
+      Copyright (c) 2008 - 2012, Lucas Bigeardel
+   </copyright>
+
+   <license url="http://ubiquisense.com/p/ubiquisense/license">
+      Ubiquisense - A smart ambient utilities framework 
+ 
+ Copyright (c) 2008 - 2014, Lucas Bigeardel
+ 
+ The library is released under:
+ 
+ A) LGPL
+ 
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 3 of the License, or (at your option) any later version.
+ 
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ 
+ You should have received a copy of the GNU Lesser General
+ Public License along with this library; if not, write to the
+ Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301 USA
+ 
+ B) EPL
+ 
+ All rights reserved. This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License v1.0
+ which accompanies this distribution, and is available at
+ http://www.eclipse.org/legal/epl-v10.html
+ 
+ Contributors:
+     Lucas Bigeardel (lucas.bigeardel@gmail.com) - Initial API and implementation
+   </license>
+
+   <url>
+      <update label="Ubiquisense Updates" url="http://ubiquisense.com/p/ubiquisense/updates/0.5.1/site.xml"/>
+      <discovery label="Ubiquisense" url="http://ubiquisense.com"/>
+   </url>
+
+   <includes
+         id="net.sf.smbt.audio"
+         version="0.0.0"/>
+
+   <requires>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="net.sf.smbt.fmodex.core" version="0.5.0" match="greaterOrEqual"/>
+      <import plugin="org.fmodex" version="0.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.editors" version="3.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.common" version="2.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.common.ui" version="2.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.ecore" version="2.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.ecore.editor" version="2.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.ecore.xmi" version="2.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.edit" version="2.7.1" match="greaterOrEqual"/>
+      <import plugin="net.sf.smbt.ui" version="0.5.0" match="greaterOrEqual"/>
+      <import plugin="net.sf.smbt.fmodex.core.edit" version="0.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.navigator"/>
+      <import plugin="org.eclipse.core.resources" version="3.7.100" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.draw2d" version="3.7.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.draw2d" version="3.6.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.ecore" version="2.8.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.emf.edit" version="2.8.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.6.0" match="compatible"/>
+      <import plugin="org.eclipse.help" version="3.5.0" match="compatible"/>
+      <import plugin="org.eclipse.ui" version="3.6.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.forms" version="3.5.0" match="compatible"/>
+      <import plugin="org.eclipse.core.expressions" version="3.4.200" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.osgi"/>
+   </requires>
+
+   <plugin
+         id="net.sf.smbt.ui.audio"
+         os="linux,macosx,win32"
+         arch="x86,x86_64"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.smbt.ui.widgets"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.smbt.fmodex.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.smbt.fmodex.core.edit"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex.linux.x86"
+         os="linux"
+         arch="x86"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex.linux.x86_64"
+         os="linux"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex.macosx.x86"
+         os="macosx"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex.win32.x86"
+         os="win32"
+         arch="x86"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.fmodex.win32.x86.64"
+         os="win32"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.ui.intro"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_yLYjcaXhEeGadNGEZVrtSg" type="EcoreTools" name="ezaudio" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_1n1cMKXhEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_1n34cKXhEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_1n5toKXhEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_jIRrYKa3EeGq5uQpaZSdng" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioSystem/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jIRrYaa3EeGq5uQpaZSdng"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1n6UsKXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1n6UsaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1n6UsqXhEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_1n6Us6XhEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1n6UtKXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1n6UtaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1n6UtqXhEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_1n1cMaXhEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioSystem"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1n1cMqXhEeGadNGEZVrtSg" x="396" y="8"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_23z2UKXhEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_231EcKXhEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_231EcaXhEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_PUOP8KXkEeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioFile/file"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_PUOP8aXkEeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_juZOEKXkEeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioFile/ext"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_juZOEaXkEeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_231EcqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_231Ec6XhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_231EdKXhEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_231EdaXhEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_231EdqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_231Ed6XhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_231EeKXhEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_230dYKXhEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioFile"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_230dYaXhEeGadNGEZVrtSg" x="392" y="216"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_4hz6AKXhEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_4h0hEqXhEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_4h1IIKXhEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_bLEiIKXkEeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioMP3/samplingRate"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bLEiIaXkEeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_4h1IIaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4h1IIqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4h1II6XhEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_4h1IJKXhEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_4h1IJaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4h1IJqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4h1IJ6XhEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_4h0hEKXhEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioMP3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4h0hEaXhEeGadNGEZVrtSg" x="436" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_55thEKXhEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_55uIIKXhEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_55uIIaXhEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_eiCd8KXkEeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioWAV/samplingRate"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eiCd8aXkEeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_55uIIqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_55uII6XhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_55uIJKXhEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_55uvMKXhEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_55uvMaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_55vWQKXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_55vWQaXhEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_55thEaXhEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioWAV"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_55thEqXhEeGadNGEZVrtSg" x="288" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_7gU5kKXhEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_7gVgoKXhEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_7gVgoaXhEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_hozakKXkEeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioOGG/samplingRate"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hozakaXkEeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_7gVgoqXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_7gVgo6XhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_7gVgpKXhEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_7gVgpaXhEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_7gWHsKXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_7gWHsaXhEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_7gWHsqXhEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_7gU5kaXhEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioOGG"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7gU5kqXhEeGadNGEZVrtSg" x="144" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_EKrakKXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_EKsBoKXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_EKsosKXiEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_Oyus4KfbEeGN_vHp-yEHJg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioScene/label"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Oyus4afbEeGN_vHp-yEHJg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_EKsosaXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_EKsosqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_EKsos6XiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_EKtPwKXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_EKtPwaXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_EKtPwqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_EKtPw6XiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_EKrakaXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioScene"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EKrakqXiEeGadNGEZVrtSg" y="212"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_HbS2wKXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_HbTd0KXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_HbUE4KXiEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_HbUE4aXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HbUE4qXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HbUE46XiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_HbUE5KXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_HbUE5aXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HbUE5qXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HbUE56XiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_HbS2waXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioProject"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HbS2wqXiEeGadNGEZVrtSg" x="184" y="84"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_L_64gKXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_L_7fkKXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_L_7fkaXiEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_NZ7G4afbEeGN_vHp-yEHJg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioClip/label"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NZ7G4qfbEeGN_vHp-yEHJg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_L_7fkqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_L_7fk6XiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_L_7flKXiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_L_7flaXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_L_7flqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_L_7fl6XiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_L_8GoKXiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_L_64gaXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioClip"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L_64gqXiEeGadNGEZVrtSg" x="188" y="212"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_OdBNEKXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_OdB0IKXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_OdB0IaXiEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_OdB0IqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OdB0I6XiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OdB0JKXiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_OdCbMKXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_OdCbMaXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OdCbMqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OdCbM6XiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_OdBNEaXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioMIDI"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OdBNEqXiEeGadNGEZVrtSg" x="580" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_k6CMsKXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_k6CzwqXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_k6Da0KXiEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_XdyuwKZKEeGwlczhoe8OUw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioChannel/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XdyuwaZKEeGwlczhoe8OUw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_k6Da0aXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_k6Da0qXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_k6Da06XiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_k6Da1KXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_k6Da1aXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_k6Da1qXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_k6Da16XiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_k6CzwKXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioChannel"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k6CzwaXiEeGadNGEZVrtSg" x="-152" y="12"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_8my88KXiEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_8mzkAKXiEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_8mzkAaXiEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_8mzkAqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_8mzkA6XiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_8mzkBKXiEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_8m0LEKXiEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_8m0LEaXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_8m0LEqXiEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_8m0LE6XiEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_8my88aXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioMixer"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8my88qXiEeGadNGEZVrtSg" x="188" y="-96"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_RgU7IKXkEeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_RgWJQKXkEeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_RgWJQaXkEeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_RgU7IaXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//File"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RgU7IqXkEeGadNGEZVrtSg" x="352" y="460"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_uzU7IKXkEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_uzViMKXkEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_uzViMaXkEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_uzViMqXkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_uzViM6XkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_uzViNKXkEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_uzViNaXkEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_uzViNqXkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_uzViN6XkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_uzViOKXkEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_uzU7IaXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//Speaker"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uzU7IqXkEeGadNGEZVrtSg" x="396" y="-88"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_3sYmgKXkEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_3sZNkKXkEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_3sZNkaXkEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_3sZNkqXkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_3sZNk6XkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_3sZNlKXkEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_3sZNlaXkEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_3sZNlqXkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_3sZNl6XkEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_3sZNmKXkEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_3sYmgaXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//Input"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3sYmgqXkEeGadNGEZVrtSg" x="396" y="84"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_CiIBAKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_CiJPIKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_CiJPIaXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_H29kcKX1EeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//FMDSP/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H29kcaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Kes0YKZFEeGwlczhoe8OUw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//FMDSP/kind"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Kes0YaZFEeGwlczhoe8OUw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_CiJPIqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_CiJPI6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_CiJPJKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_CiJPJaXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_CiJPJqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_CiJPJ6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_CiJPKKXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_CiIBAaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//FMDSP"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CiIBAqXlEeGadNGEZVrtSg" x="64" y="-52"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_FXbaMKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_FXcBQKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_FXcBQaXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_wwyX0KZcEeGwlczhoe8OUw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioChannelGroup/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wwy-4KZcEeGwlczhoe8OUw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_FXcBQqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_FXcBQ6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_FXcBRKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_FXcBRaXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_FXcBRqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_FXcBR6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_FXcBSKXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_FXbaMaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioChannelGroup"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FXbaMqXlEeGadNGEZVrtSg" x="-304" y="12"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_eOLRUKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_eOL4YKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_eOL4YaXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_FrfycKX1EeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioSound/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FrfycaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_eDpv0KZHEeGwlczhoe8OUw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioSound/exinfo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eDpv0aZHEeGwlczhoe8OUw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_eOL4YqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_eOL4Y6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_eOL4ZKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_eOL4ZaXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_eOL4ZqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_eOL4Z6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_eOL4aKXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_eOLRUaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioSound"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eOLRUqXlEeGadNGEZVrtSg" x="-72" y="264"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_e-zdAKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_e-0EEKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_e-0EEaXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_Jz5yQKX1EeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioReverb/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Jz6ZUKX1EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_e-0EEqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_e-0EE6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_e-0EFKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_e-0rIKXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_e-0rIaXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_e-0rIqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_e-0rI6XlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_e-zdAaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioReverb"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e-zdAqXlEeGadNGEZVrtSg" x="-14" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_hb8N0KXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_hb8N06XlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_hb8N1KXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_w6qn0KX0EeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//AudioSoundGroup/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_w6qn0aX0EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_hb804KXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_hb804aXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_hb804qXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_hb8046XlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_hb805KXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_hb805aXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_hb805qXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_hb8N0aXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioSoundGroup"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hb8N0qXlEeGadNGEZVrtSg" x="-224" y="264"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_kNiLsKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_kNiywKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_kNiywaXlEeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_kNiywqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_kNiyw6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_kNiyxKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_kNiyxaXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_kNiyxqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_kNiyx6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_kNiyyKXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_kNiLsaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//ISound"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kNiLsqXlEeGadNGEZVrtSg" x="-128" y="160"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_tJGYgKXlEeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_tJG_kKXlEeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_tJG_kaXlEeGadNGEZVrtSg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_0wLg0KX0EeGadNGEZVrtSg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//FMGeometry/fmodex"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0wLg0aX0EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_tJG_kqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJG_k6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJG_lKXlEeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tJG_laXlEeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_tJG_lqXlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJG_l6XlEeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJG_mKXlEeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_tJGYgaXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//FMGeometry"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJGYgqXlEeGadNGEZVrtSg" x="-156" y="352"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_I1sTAKX0EeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_I1thIKX0EeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_I1thIaX0EeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_I1sTAaX0EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//Sound"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I1sTAqX0EeGadNGEZVrtSg" x="96" y="548"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_hhTRIKX0EeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_hhUfQKX0EeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_hhUfQaX0EeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_hhTRIaX0EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//DSP"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hhTRIqX0EeGadNGEZVrtSg" x="-132" y="504"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_lDAdUKX0EeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_lDBEYKX0EeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_lDBEYaX0EeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_lDAdUaX0EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//Grometry"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lDAdUqX0EeGadNGEZVrtSg" x="-132" y="416"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_othnQKX0EeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_otiOUKX0EeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_otiOUaX0EeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_othnQaX0EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//Reverb"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_othnQqX0EeGadNGEZVrtSg" x="-132" y="460"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_uEKUwKX0EeGadNGEZVrtSg" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_uEK70KX0EeGadNGEZVrtSg" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_uEK70aX0EeGadNGEZVrtSg" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_uEKUwaX0EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//SoundGroup"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uEKUwqX0EeGadNGEZVrtSg" x="96" y="504"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_Z5gj4KX1EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_Z5hK8KX1EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_Z5hyAKX1EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_dfmg0KX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/CREATE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dfmg0aX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_e8q7wKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/DIALOG"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_e8q7waX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_gD8s4KX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/GET_PARAM"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_gD9T8KX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_haH1oKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/READ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_haH1oaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iIkQAKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/RELEASE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iIkQAaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_i6QLoKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/RESET"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_i6QLoaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_jkHoAKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/SET_PARAM"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jkHoAaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_kiAzoKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_CALLBACK/SET_POSITION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kiAzoaX1EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_Z5hyAaX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Z5hyAqX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Z5hyA6X1EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_Z5gj4aX1EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//DSP_CALLBACK"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z5gj4qX1EeGadNGEZVrtSg" x="572" y="104"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_mvxEoKX1EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_mvxEo6X1EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_mvxrsKX1EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_oMndIKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/ASYNC_CANCEL"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oMndIaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_pRjE4KX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/ASYNC_READ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pRjE4aX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_q4NgsKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/CLOSE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_q4NgsaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_rXgEwKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/OPEN"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rXgEwaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_r6CxIKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/READ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_r6CxIaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_sOunsKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//FILE_CALLBACK/SEEK"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_sOunsaX1EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_mvxrsaX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_mvxrsqX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_mvxrs6X1EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_mvxEoaX1EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//FILE_CALLBACK"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mvxEoqX1EeGadNGEZVrtSg" x="860" y="232"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_tJ4BUKX1EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_tJ4oYKX1EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_tJ4oYaX1EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_xbVPcKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//MEMORY_CALLBACK/ALLOC"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xbVPcaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_x4UGYKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//MEMORY_CALLBACK/FREE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_x4UGYaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_yQze4KX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//MEMORY_CALLBACK/REALLOC"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yQ0F8KX1EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_tJ4oYqX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJ4oY6X1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJ4oZKX1EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_tJ4BUaX1EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//MEMORY_CALLBACK"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ4BUqX1EeGadNGEZVrtSg" x="848" y="364"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zbYboKX1EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_zbYbo6X1EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_zbYbpKX1EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_1F1LQKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//SOUND_CALLBACK/NON_BLOCK"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1F1yUKX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_3L0nYKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//SOUND_CALLBACK/PCM_READ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_3L0nYaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_4CQgIKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//SOUND_CALLBACK/PCM_SET_POS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4CQgIaX1EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zbZCsKX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zbZCsaX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zbZCsqX1EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zbYboaX1EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//SOUND_CALLBACK"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zbYboqX1EeGadNGEZVrtSg" x="728" y="348"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_-F8g4KX1EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_-F9H8KX1EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_-F9H8aX1EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="__t4vEKX1EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/CLOSE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__t4vEaX1EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_BFgCQKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/GET_LENGTH"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BFgCQaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_CXNhwKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/GET_POSITION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_CXNhwaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_DNaxAKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/GET_WAVE_FORMAT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_DNaxAaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_E-klkKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/META_DATA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_E-klkaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_GgnnIKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/OPEN"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GgnnIaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_HgWl0KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/READ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HgWl0aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_H-wZEKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/SET_POSITION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H-wZEaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Jqp6MKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CODEC_CALLBACK/SOUND_CREATE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Jqp6MaX2EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_-F9H8qX1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_-F9H86X1EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_-F9H9KX1EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_-F8g4aX1EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//CODEC_CALLBACK"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-F8g4qX1EeGadNGEZVrtSg" x="728" y="168"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_PPs3IKX2EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_PPteMKX2EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_PPteMaX2EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_R842IKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/CHORUS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_R842IaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_SsqGMKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/COMPRESSOR"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_SsqGMaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UazqEKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/DELAY"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UazqEaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_VPRM4KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/DISTORTION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_VPRM4aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_WNQfIKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/ECHO"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WNQfIaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_YZefEKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/FFT_WINDOW"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YZefEaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ZYV7EKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/FLANGE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZYV7EaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aLOJgKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/HIGH_PASS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aLOJgaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_bNRcYKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/IT_ECHO"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bNRcYaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_cH7t0KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/IT_LOW_PASS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cH8U4KX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dB2_cKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/LOW_PASS_SIMPLE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dB2_caX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_eNRCoKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/LOW_PASS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eNRCoaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_fCkS8KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/NORMALIZE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fCkS8aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_fqywkKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/OSCILLATOR"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fqywkaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_gcJ8EKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/PARAM_EQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_gcJ8EaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_hb7XAKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/PITCH_SHIFFT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hb7XAaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iyxOIKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/RESAMPLER"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iyxOIaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_jYrXkKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/REVERB"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jYrXkaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_j9bDYKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/SFX_REVERB"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_j9bDYaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_lNx4AKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/TREMOLO"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lNyfEKX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_l_H1YKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//DSP_KIND/TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_l_H1YaX2EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_PPteMqX2EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_PPteM6X2EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_PPteNKX2EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_PPs3IaX2EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//DSP_KIND"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PPs3IqX2EeGadNGEZVrtSg" x="860" y="-140"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_qh4O4KX2EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_qh418KX2EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_qh418aX2EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_3yoTQKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SPEAKER"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_3yoTQaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_-sKW4KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/TAG_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_-sKW4aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_9eg4AKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/TAG_DATA_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9eg4AaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_77j3gKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SYSTEM_CALLBACK_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_77j3gaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_6-ub0KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SPEAKER_MODE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6-ub0aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_5uSHoKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SPEAKER_MAP_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5uSHoaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_18788KX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SOUNDGROUP_BEHAVIOR"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_18788aX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_sy85oKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/OPEN_STATE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_sy85oaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_uNHKgKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/OUTPUT_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_uNHKgaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_xEF-sKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/PLUGIN_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xEF-saX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_x0vYgKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/RESULT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_x0vYgaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_yfK1kKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SOUND_FORMAT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yfK1kaX2EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ztlJcKX2EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//OPERATION/SOUND_TYPE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ztlwgKX2EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_qh418qX2EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qh4186X2EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qh419KX2EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_qh4O4aX2EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//OPERATION"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qh4O4qX2EeGadNGEZVrtSg" x="520" y="-140"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_DWLO8KX3EeGadNGEZVrtSg" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_DWL2AaX3EeGadNGEZVrtSg" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_DWMdEKX3EeGadNGEZVrtSg" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_FTZwoKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/ADVANCED_SETTINGS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FTZwoaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_G4EBUKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/ASYNC_READ_INFO"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_G4EBUaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_IW6k8KX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/CD_TOC"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IW6k8aX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JWX20KX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/CODEC_DESCRIPTION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JWX20aX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_KgjyAKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/CODEC_STATE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KgjyAaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Lk9OQKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/CODEC_WAVE_FORMAT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Lk9OQaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_NXHIYKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/CREATE_SOUND_INFO"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NXHIYaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Oyh9gKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/DSP_DESCRIPTION"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Oyh9gaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_P9eGoKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/DSP_PARAMETER_DESC"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_P9eGoaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_RwjN0KX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/DSP_STATE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_RwjN0aX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_S-xUcKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/GUID"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_S-xUcaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UCGZsKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/MEMORY_USAGE_DETAILS"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UCGZsaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Vcy2EKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/REVERB_CHANNEL_PROPERTIES"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Vcy2EaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_XKP2YKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/REVERB_PROPERTIES"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XKP2YaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ZDnLwKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/SYNC_POINT"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZDnLwaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aEgBAKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/TAG"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aEgBAaX3EeGadNGEZVrtSg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_avF2IKX3EeGadNGEZVrtSg" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//STRUCTURES/VECTOR"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_avF2IaX3EeGadNGEZVrtSg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_DWMdEaX3EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_DWMdEqX3EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_DWMdE6X3EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_DWLO8aX3EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//STRUCTURES"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DWL2AKX3EeGadNGEZVrtSg" x="676" y="-140"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_bVn1MKX4EeGadNGEZVrtSg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_bVpqYKX4EeGadNGEZVrtSg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_bVpqYaX4EeGadNGEZVrtSg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_bVpqYqX4EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bVpqY6X4EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bVpqZKX4EeGadNGEZVrtSg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_bVpqZaX4EeGadNGEZVrtSg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_bVpqZqX4EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bVpqZ6X4EeGadNGEZVrtSg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bVpqaKX4EeGadNGEZVrtSg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_bVn1MaX4EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//IChannel"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bVn1MqX4EeGadNGEZVrtSg" x="-208" y="-92"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_QGM9gKZHEeGwlczhoe8OUw" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_QGOLoKZHEeGwlczhoe8OUw" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_QGOysKZHEeGwlczhoe8OUw" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_QGM9gaZHEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//FMOD_CREATESOUNDEXINFO"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGM9gqZHEeGwlczhoe8OUw" x="352" y="416"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_cdSHkKZKEeGwlczhoe8OUw" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_cdSHk6ZKEeGwlczhoe8OUw" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_cdSuoKZKEeGwlczhoe8OUw" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_cdSHkaZKEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//Channel"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cdSHkqZKEeGwlczhoe8OUw" x="96" y="460"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yihbMKZcEeGwlczhoe8OUw" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_yihbM6ZcEeGwlczhoe8OUw" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_yiiCQKZcEeGwlczhoe8OUw" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_yihbMaZcEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//ChannelGroup"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yihbMqZcEeGwlczhoe8OUw" x="97" y="415"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_FyGWMKakEeGq5uQpaZSdng" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_FyILYKakEeGq5uQpaZSdng" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_FyIycKakEeGq5uQpaZSdng" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_IrasIKimEeGN_vHp-yEHJg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//Device/ID"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IrasIaimEeGN_vHp-yEHJg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_FyIycaakEeGq5uQpaZSdng"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_FyIycqakEeGq5uQpaZSdng"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_FyIyc6akEeGq5uQpaZSdng"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_FyIydKakEeGq5uQpaZSdng" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_FyIydaakEeGq5uQpaZSdng"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_FyIydqakEeGq5uQpaZSdng"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_FyIyd6akEeGq5uQpaZSdng"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_FyGWMaakEeGq5uQpaZSdng" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//Device"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FyGWMqakEeGq5uQpaZSdng" x="-32" y="40"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_ljE54Ka3EeGq5uQpaZSdng" type="1004">
+    <children xmi:type="notation:Node" xmi:id="_ljFg8Ka3EeGq5uQpaZSdng" type="4008"/>
+    <children xmi:type="notation:Node" xmi:id="_ljGIAKa3EeGq5uQpaZSdng" type="4009"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_ljE54aa3EeGq5uQpaZSdng" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EDataType" href="ezaudio.ecore#//System"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ljE54qa3EeGq5uQpaZSdng" x="352" y="504"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_tO3NMKihEeGN_vHp-yEHJg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_tO4bUKihEeGN_vHp-yEHJg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_tO5CYKihEeGN_vHp-yEHJg" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_tO5CYaihEeGN_vHp-yEHJg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tO5CYqihEeGN_vHp-yEHJg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tO5CY6ihEeGN_vHp-yEHJg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tO5pcKihEeGN_vHp-yEHJg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_tO5pcaihEeGN_vHp-yEHJg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tO5pcqihEeGN_vHp-yEHJg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tO5pc6ihEeGN_vHp-yEHJg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_tO3NMaihEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//AudioTrack"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tO3NMqihEeGN_vHp-yEHJg" x="-16" y="124"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_qhR9MKnAEeG7VbxXiStteQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_qhTyYKnAEeG7VbxXiStteQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_qhVAgKnAEeG7VbxXiStteQ" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_v0EsgKnAEeG7VbxXiStteQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//TimeTag/time"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_v0EsganAEeG7VbxXiStteQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_wYBuIKnAEeG7VbxXiStteQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//TimeTag/duration"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wYBuIanAEeG7VbxXiStteQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dSi1kKnBEeG7VbxXiStteQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="ezaudio.ecore#//TimeTag/status"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dSi1kanBEeG7VbxXiStteQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_qhVAganAEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qhVAgqnAEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qhVAg6nAEeG7VbxXiStteQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_qhVnkKnAEeG7VbxXiStteQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_qhVnkanAEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qhVnkqnAEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qhVnk6nAEeG7VbxXiStteQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_qhR9ManAEeG7VbxXiStteQ" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="ezaudio.ecore#//TimeTag"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qhR9MqnAEeG7VbxXiStteQ" x="-284" y="64"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_YMUioKnBEeG7VbxXiStteQ" type="1005">
+    <children xmi:type="notation:Node" xmi:id="_YMVwwKnBEeG7VbxXiStteQ" type="4010"/>
+    <children xmi:type="notation:Node" xmi:id="_YMWX0KnBEeG7VbxXiStteQ" type="5008">
+      <children xmi:type="notation:Node" xmi:id="_aQZTMKnBEeG7VbxXiStteQ" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CLIP_STATUS/PLAY"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aQZTManBEeG7VbxXiStteQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_a2VR0KnBEeG7VbxXiStteQ" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CLIP_STATUS/PAUSE"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a2VR0anBEeG7VbxXiStteQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_bVsuYKnBEeG7VbxXiStteQ" type="2006">
+        <element xmi:type="ecore:EEnumLiteral" href="ezaudio.ecore#//CLIP_STATUS/STOP"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bVsuYanBEeG7VbxXiStteQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_YMWX0anBEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_YMWX0qnBEeG7VbxXiStteQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_YMWX06nBEeG7VbxXiStteQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_YMUioanBEeG7VbxXiStteQ" fontColor="4210752" fontName="Lucida Grande" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EEnum" href="ezaudio.ecore#//CLIP_STATUS"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YMUioqnBEeG7VbxXiStteQ" x="-299" y="169"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_yLZKgKXhEeGadNGEZVrtSg"/>
+  <element xmi:type="ecore:EPackage" href="ezaudio.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_9Az04KXhEeGadNGEZVrtSg" type="3003" source="_7gU5kKXhEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_9Az04aXhEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_9Az04qXhEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9Az046XhEeGadNGEZVrtSg" points="[57, -7, -184, 77]$[57, -51, -184, 33]$[238, -51, -3, 33]$[238, -80, -3, 4]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9BFhsKXhEeGadNGEZVrtSg" id="(0.2549019607843137,0.16666666666666666)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AKRc8aaiEeGq5uQpaZSdng" id="(0.27450980392156865,0.9384615384615385)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_9kkpQKXhEeGadNGEZVrtSg" type="3003" source="_4hz6AKXhEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_9kkpQaXhEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_9kkpQqXhEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9kkpQ6XhEeGadNGEZVrtSg" points="[-5, -6, 82, 105]$[-5, -38, 82, 73]$[-81, -38, 6, 73]$[-81, -79, 6, 32]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9knFgKXhEeGadNGEZVrtSg" id="(0.696078431372549,0.14285714285714285)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_-DD8EKXhEeGadNGEZVrtSg" type="3003" source="_55thEKXhEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_-DEjIKXhEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-DEjIaXhEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-DEjIqXhEeGadNGEZVrtSg" points="[1, -23, -115, 91]$[1, -55, -115, 59]$[78, -55, -38, 59]$[78, -96, -38, 18]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-DFxQKXhEeGadNGEZVrtSg" id="(0.7941176470588235,0.7142857142857143)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_QxJL0KXiEeGadNGEZVrtSg" type="3003" source="_OdBNEKXiEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_QxJL0aXiEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_QxJL0qXiEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QxJL06XiEeGadNGEZVrtSg" points="[31, -4, 184, 74]$[31, -52, 184, 26]$[-144, -52, 9, 26]$[-144, -77, 9, 1]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QxKZ8KXiEeGadNGEZVrtSg" id="(0.3235294117647059,0.11904761904761904)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B9MzIKaiEeGq5uQpaZSdng" id="(0.6764705882352942,0.9846153846153847)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_WXESgKXiEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_EKrakKXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_WXE5kKXiEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_WXE5kaXiEeGadNGEZVrtSg" x="-19" y="-15"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_WXFgoKXiEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_WXFgoaXiEeGadNGEZVrtSg" x="2" y="7"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_WXESgaXiEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_WXESgqXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/scenes"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WXESg6XiEeGadNGEZVrtSg" points="[-27, 33, 71, -85]$[-96, 117, 2, -1]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WXOqkKXiEeGadNGEZVrtSg" id="(0.49019607843137253,0.8809523809523809)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WXOqkaXiEeGadNGEZVrtSg" id="(0.6470588235294118,0.047619047619047616)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_bK4m0KXiEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_L_64gKXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_bK4m1KXiEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bK4m1aXiEeGadNGEZVrtSg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_bK5N4KXiEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bK5N4aXiEeGadNGEZVrtSg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_bK4m0aXiEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_bK4m0qXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/clips"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bK4m06XiEeGadNGEZVrtSg" points="[18, 19, -85, -88]$[105, 103, 2, -4]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bK7DEKXiEeGadNGEZVrtSg" id="(0.5294117647058824,0.8333333333333334)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bK7DEaXiEeGadNGEZVrtSg" id="(0.5490196078431373,0.11904761904761904)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_gSuDUKXiEeGadNGEZVrtSg" type="3002" source="_EKrakKXiEeGadNGEZVrtSg" target="_L_64gKXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_gSuqYqXiEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gSuqY6XiEeGadNGEZVrtSg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_gSuqZKXiEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gSuqZaXiEeGadNGEZVrtSg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_gSuDUaXiEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_gSuqYKXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioScene/clips"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gSuqYaXiEeGadNGEZVrtSg" points="[22, -6, -94, 1]$[117, -16, 1, -9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gSwfkKXiEeGadNGEZVrtSg" id="(0.7843137254901961,0.40476190476190477)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gSwfkaXiEeGadNGEZVrtSg" id="(0.22549019607843138,0.23809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_v0OpYKXiEeGadNGEZVrtSg" type="3002" source="_L_64gKXiEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_v0OpZKXiEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_v0OpZaXiEeGadNGEZVrtSg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_v0OpZqXiEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_v0OpZ6XiEeGadNGEZVrtSg" x="1" y="8"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_v0OpYaXiEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_v0OpYqXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioClip/file"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_v0OpY6XiEeGadNGEZVrtSg" points="[-39, 20, 221, -114]$[-258, 132, 2, -2]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_v0QekKXiEeGadNGEZVrtSg" id="(0.00980392156862745,0.35714285714285715)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_xl9FsKXiEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_23z2UKXhEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_xl9swKXiEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_xl9swaXiEeGadNGEZVrtSg" x="10" y="-28"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_xl9swqXiEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_xl9sw6XiEeGadNGEZVrtSg" x="-13" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_xl9FsaXiEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_xl9FsqXiEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/audioResources"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xl9Fs6XiEeGadNGEZVrtSg" points="[-22, 20, 254, -238]$[-275, 256, 1, -2]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nyvb8KaiEeGq5uQpaZSdng" id="(0.6666666666666666,0.9285714285714286)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xl_h8KXiEeGadNGEZVrtSg" id="(0.4215686274509804,0.07142857142857142)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_ipQAYKXjEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_1n1cMKXhEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_ipQncKXjEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ipQncaXjEeGadNGEZVrtSg" x="-3" y="-17"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_ipQncqXjEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ipQnc6XjEeGadNGEZVrtSg" x="4" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_ipQAYaXjEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ipQAYqXjEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/system"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ipQAY6XjEeGadNGEZVrtSg" points="[-6, -1, 1, 88]$[-6, -85, 1, 4]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ipScoKXjEeGadNGEZVrtSg" id="(0.8137254901960784,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ipScoaXjEeGadNGEZVrtSg" id="(0.0392156862745098,0.23809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tZf24KXjEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_8my88KXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_tZf25KXjEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tZf25aXjEeGadNGEZVrtSg" x="11" y="22"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tZf25qXjEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tZgd8KXjEeGadNGEZVrtSg" x="11" y="-17"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_tZf24aXjEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tZf24qXjEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/effects"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tZf246XjEeGadNGEZVrtSg" points="[-7, -3, -20, 108]$[-37, -102, -50, 9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tZhsEKXjEeGadNGEZVrtSg" id="(0.5588235294117647,0.023809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_wBv2EKXkEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_uzU7IKXkEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_wBv2FKXkEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_wBv2FaXkEeGadNGEZVrtSg" x="-12" y="-18"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_wBwdIKXkEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_wBwdIaXkEeGadNGEZVrtSg" x="-9" y="12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_wBv2EaXkEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_wBv2EqXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/speakers"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wBv2E6XkEeGadNGEZVrtSg" points="[53, 6, -201, 1]$[255, -4, 1, -9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wBySUKXkEeGadNGEZVrtSg" id="(0.6176470588235294,0.07142857142857142)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wBySUaXkEeGadNGEZVrtSg" id="(0.09803921568627451,0.23809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_0F-ggKXkEeGadNGEZVrtSg" type="3002" source="_8my88KXiEeGadNGEZVrtSg" target="_uzU7IKXkEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_0F_HkKXkEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0F_HkaXkEeGadNGEZVrtSg" x="1" y="-9"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_0F_HkqXkEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0F_Hk6XkEeGadNGEZVrtSg" x="-1" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_0F-ggaXkEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_0F-ggqXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioMixer/out"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0F-gg6XkEeGadNGEZVrtSg" points="[22, 14, -177, -114]$[200, 121, 1, -7]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0GA8wKXkEeGadNGEZVrtSg" id="(0.7843137254901961,0.19047619047619047)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0GA8waXkEeGadNGEZVrtSg" id="(0.21568627450980393,0.19047619047619047)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_6XRfcKXkEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_3sYmgKXkEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_6XRfdKXkEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6XRfdaXkEeGadNGEZVrtSg" x="5" y="-8"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_6XRfdqXkEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6XRfd6XkEeGadNGEZVrtSg" x="3" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_6XRfcaXkEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_6XRfcqXkEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/in"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6XRfc6XkEeGadNGEZVrtSg" points="[3, 1, -131, -11]$[115, 10, -19, -2]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6XTUoKXkEeGadNGEZVrtSg" id="(0.9705882352941176,0.5714285714285714)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6XTUoaXkEeGadNGEZVrtSg" id="(0.19607843137254902,0.4523809523809524)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_lxmmgKXlEeGadNGEZVrtSg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_kNiLsKXlEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_lxmmhKXlEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_lxmmhaXlEeGadNGEZVrtSg" x="5" y="-13"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_lxnNkKXlEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_lxnNkaXlEeGadNGEZVrtSg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_lxmmgaXlEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_lxmmgqXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/sounds"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lxmmg6XlEeGadNGEZVrtSg" points="[-11, 5, 216, -84]$[-177, 89, 50, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lxobsKXlEeGadNGEZVrtSg" id="(0.0,0.8367346938775511)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_nZQg0KXlEeGadNGEZVrtSg" type="3003" source="_hb8N0KXlEeGadNGEZVrtSg" target="_kNiLsKXlEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_nZQg0aXlEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_nZQg0qXlEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nZQg06XlEeGadNGEZVrtSg" points="[7, -4, -96, 67]$[104, -61, 1, 10]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZSWAKXlEeGadNGEZVrtSg" id="(0.5144927536231884,0.04081632653061224)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZSWAaXlEeGadNGEZVrtSg" id="(0.3235294117647059,0.7619047619047619)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_oEcy4KXlEeGadNGEZVrtSg" type="3003" source="_eOLRUKXlEeGadNGEZVrtSg" target="_kNiLsKXlEeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_oEcy4aXlEeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_oEcy4qXlEeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oEcy46XlEeGadNGEZVrtSg" points="[-7, -9, 51, 80]$[-57, -69, 1, 20]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oEeBAKXlEeGadNGEZVrtSg" id="(0.29411764705882354,0.23809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_orVMsKXlEeGadNGEZVrtSg" type="3002" source="_hb8N0KXlEeGadNGEZVrtSg" target="_kNiLsKXlEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_orVzwKXlEeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_orVzwaXlEeGadNGEZVrtSg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_orVzwqXlEeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_orVzw6XlEeGadNGEZVrtSg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_orVMsaXlEeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_orVMsqXlEeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioSoundGroup/children"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_orVMs6XlEeGadNGEZVrtSg" points="[0, -6, -74, 85]$[0, -91, -74, 0]$[61, -91, -13, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_orXo8KXlEeGadNGEZVrtSg" id="(0.3333333333333333,0.16666666666666666)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_orXo8aXlEeGadNGEZVrtSg" id="(0.13725490196078433,0.30952380952380953)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_cwB9sKX4EeGadNGEZVrtSg" type="3003" source="_FXbaMKXlEeGadNGEZVrtSg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_cwB9saX4EeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_cwB9sqX4EeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cwB9s6X4EeGadNGEZVrtSg" points="[2, -4, -54, 95]$[57, -108, 1, -9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cwDL0KX4EeGadNGEZVrtSg" id="(0.40336134453781514,0.11904761904761904)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cwDL0aX4EeGadNGEZVrtSg" id="(0.3137254901960784,0.23809523809523808)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_dRwxwKX4EeGadNGEZVrtSg" type="3003" source="_k6CMsKXiEeGadNGEZVrtSg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_dRwxwaX4EeGadNGEZVrtSg" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_dRwxwqX4EeGadNGEZVrtSg" fontName="Lucida Grande"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dRwxw6X4EeGadNGEZVrtSg" points="[-2, -3, 29, 73]$[-29, -67, 2, 9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dRx_4KX4EeGadNGEZVrtSg" id="(0.3431372549019608,0.09523809523809523)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dRx_4aX4EeGadNGEZVrtSg" id="(0.5980392156862745,0.7857142857142857)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_k-740KX4EeGadNGEZVrtSg" type="3002" source="_8my88KXiEeGadNGEZVrtSg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_k-8f4KX4EeGadNGEZVrtSg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_k-8f4aX4EeGadNGEZVrtSg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_k-8f4qX4EeGadNGEZVrtSg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_k-8f46X4EeGadNGEZVrtSg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_k-740aX4EeGadNGEZVrtSg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_k-740qX4EeGadNGEZVrtSg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioMixer/channel"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_k-7406X4EeGadNGEZVrtSg" points="[-5, -3, 105, 46]$[-108, -68, 2, -19]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_k-9uAKX4EeGadNGEZVrtSg" id="(0.058823529411764705,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_k-9uAaX4EeGadNGEZVrtSg" id="(0.8725490196078431,0.47619047619047616)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_Wj6PgKZBEeGwlczhoe8OUw" type="3002" source="_FXbaMKXlEeGadNGEZVrtSg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_Wj6PhKZBEeGwlczhoe8OUw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Wj6PhaZBEeGwlczhoe8OUw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_Wj62kKZBEeGwlczhoe8OUw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Wj62kaZBEeGwlczhoe8OUw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_Wj6PgaZBEeGwlczhoe8OUw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Wj6PgqZBEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioChannelGroup/children"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Wj6Pg6ZBEeGwlczhoe8OUw" points="[0, 0, -45, 82]$[0, -88, -45, -6]$[45, -88, 0, -6]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Wj8rwKZBEeGwlczhoe8OUw" id="(0.23529411764705882,0.02040816326530612)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Wj8rwaZBEeGwlczhoe8OUw" id="(0.0,0.5714285714285714)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_dcD5cKZJEeGwlczhoe8OUw" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_CiIBAKXlEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_dcEggKZJEeGwlczhoe8OUw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dcEggaZJEeGwlczhoe8OUw" x="1" y="-15"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_dcEggqZJEeGwlczhoe8OUw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dcEgg6ZJEeGwlczhoe8OUw" x="-7" y="9"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_dcD5caZJEeGwlczhoe8OUw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_dcD5cqZJEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/dspList"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dcD5c6ZJEeGwlczhoe8OUw" points="[0, -2, 44, 105]$[0, -107, 44, 0]$[-40, -107, 4, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j6_FQKa4EeGq5uQpaZSdng" id="(0.2831858407079646,0.061224489795918366)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dcGVsKZJEeGwlczhoe8OUw" id="(0.9636363636363636,0.5076923076923077)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_lrA34KZJEeGwlczhoe8OUw" type="3002" source="_bVn1MKX4EeGadNGEZVrtSg" target="_CiIBAKXlEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_lrBe8KZJEeGwlczhoe8OUw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_lrBe8aZJEeGwlczhoe8OUw" x="-36" y="14"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_lrBe8qZJEeGwlczhoe8OUw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_lrBe86ZJEeGwlczhoe8OUw" x="-8" y="-12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_lrA34aZJEeGwlczhoe8OUw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_lrA34qZJEeGwlczhoe8OUw" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//IChannel/dspList"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lrA346ZJEeGwlczhoe8OUw" points="[30, 23, -99, -79]$[130, 85, 1, -17]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lrDUIKZJEeGwlczhoe8OUw" id="(0.9705882352941176,0.7380952380952381)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lrDUIaZJEeGwlczhoe8OUw" id="(0.02727272727272727,0.47692307692307695)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_r2q5gKakEeGq5uQpaZSdng" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_r2rgkKakEeGq5uQpaZSdng" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_r2rgkaakEeGq5uQpaZSdng" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_r2rgkqakEeGq5uQpaZSdng" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_r2rgk6akEeGq5uQpaZSdng" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_r2q5gaakEeGq5uQpaZSdng" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_r2q5gqakEeGq5uQpaZSdng" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/channels"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_r2q5g6akEeGq5uQpaZSdng" points="[-9, -4, 342, 161]$[-315, -145, 36, 20]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r2t80KakEeGq5uQpaZSdng" id="(0.017699115044247787,0.20408163265306123)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_4ydpAac9EeGkoPfL8QqfzA" type="3002" source="_L_64gKXiEeGadNGEZVrtSg" target="_eOLRUKXlEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_4ygFQKc9EeGkoPfL8QqfzA" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_4ygFQac9EeGkoPfL8QqfzA" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_4ygFQqc9EeGkoPfL8QqfzA" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_4ygFQ6c9EeGkoPfL8QqfzA" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_4ydpAqc9EeGkoPfL8QqfzA" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_4ydpA6c9EeGkoPfL8QqfzA" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioClip/sound"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4ydpBKc9EeGkoPfL8QqfzA" points="[-33, 19, 79, -42]$[-110, 47, 2, -14]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4yjvoKc9EeGkoPfL8QqfzA" id="(0.3333333333333333,0.14285714285714285)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4yjvoac9EeGkoPfL8QqfzA" id="(0.8591549295774648,0.23076923076923078)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tPLWQKihEeGN_vHp-yEHJg" type="3002" source="_tO3NMKihEeGN_vHp-yEHJg" target="_bVn1MKX4EeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_tPL9UKihEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPL9UaihEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tPMkYKihEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPMkYaihEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_tPLWQaihEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tPLWQqihEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioTrack/channel"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tPLWQ6ihEeGN_vHp-yEHJg" points="[-1, -1, 156, 70]$[-113, -51, 44, 20]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tPNygKihEeGN_vHp-yEHJg" type="3002" source="_tO3NMKihEeGN_vHp-yEHJg" target="_L_64gKXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_tPNyhKihEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPNyhaihEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tPNyhqihEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPNyh6ihEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_tPNygaihEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tPNygqihEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioTrack/clips"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tPNyg6ihEeGN_vHp-yEHJg" points="[1, 1, -238, -235]$[215, 213, -24, -23]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tPOZkKihEeGN_vHp-yEHJg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_tO3NMKihEeGN_vHp-yEHJg">
+    <children xmi:type="notation:Node" xmi:id="_tPPAoKihEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPPAoaihEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tPPAoqihEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPPAo6ihEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_tPOZkaihEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tPOZkqihEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/tracks"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tPOZk6ihEeGN_vHp-yEHJg" points="[-45, -20, 190, 85]$[-234, -105, 1, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tPPnsKihEeGN_vHp-yEHJg" type="3002" source="_L_64gKXiEeGadNGEZVrtSg" target="_tO3NMKihEeGN_vHp-yEHJg">
+    <children xmi:type="notation:Node" xmi:id="_tPPntKihEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPPntaihEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_tPQOwKihEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tPQOwaihEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_tPPnsaihEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tPPnsqihEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioClip/track"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tPPns6ihEeGN_vHp-yEHJg" points="[-24, -23, 215, 213]$[-238, -235, 1, 1]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_uPiqQKilEeGN_vHp-yEHJg" type="3002" source="_tO3NMKihEeGN_vHp-yEHJg" target="_FyGWMKakEeGq5uQpaZSdng">
+    <children xmi:type="notation:Node" xmi:id="_uPkfcKilEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_uPkfcailEeGN_vHp-yEHJg" x="-25" y="-14"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_uPkfcqilEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_uPkfc6ilEeGN_vHp-yEHJg" x="7" y="17"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_uPiqQailEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_uPiqQqilEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioTrack/devices"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uPiqQ6ilEeGN_vHp-yEHJg" points="[-6, 1, 118, -12]$[-122, 31, 2, 18]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uPm7sKilEeGN_vHp-yEHJg" id="(0.06862745098039216,0.3673469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uPm7sailEeGN_vHp-yEHJg" id="(0.7647058823529411,0.5714285714285714)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_x3JDEKilEeGN_vHp-yEHJg" type="3002" source="_HbS2wKXiEeGadNGEZVrtSg" target="_FyGWMKakEeGq5uQpaZSdng">
+    <children xmi:type="notation:Node" xmi:id="_x3JqIKilEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_x3JqIailEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_x3JqIqilEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_x3JqI6ilEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_x3JDEailEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_x3JDEqilEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioProject/devices"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x3JDE6ilEeGN_vHp-yEHJg" points="[-8, -4, 105, 58]$[-111, -72, 2, -10]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_x3K4QKilEeGN_vHp-yEHJg" id="(0.10784313725490197,0.11904761904761904)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_x3K4QailEeGN_vHp-yEHJg" id="(0.8921568627450981,0.2619047619047619)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_L-to4KimEeGN_vHp-yEHJg" type="3002" source="_FyGWMKakEeGq5uQpaZSdng" target="_tO3NMKihEeGN_vHp-yEHJg">
+    <children xmi:type="notation:Node" xmi:id="_L-to5KimEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_L-to5aimEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_L-uP8KimEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_L-uP8aimEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_L-to4aimEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_L-to4qimEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//Device/track"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_L-to46imEeGN_vHp-yEHJg" points="[7, 24, -11, -42]$[20, 61, 2, -5]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L-veEKimEeGN_vHp-yEHJg" id="(0.5294117647058824,0.12244897959183673)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_NgjPEKimEeGN_vHp-yEHJg" type="3002" source="_FyGWMKakEeGq5uQpaZSdng" target="_k6CMsKXiEeGadNGEZVrtSg">
+    <children xmi:type="notation:Node" xmi:id="_NgjPFKimEeGN_vHp-yEHJg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_NgjPFaimEeGN_vHp-yEHJg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_Ngj2IKimEeGN_vHp-yEHJg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ngj2IaimEeGN_vHp-yEHJg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_NgjPEaimEeGN_vHp-yEHJg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_NgjPEqimEeGN_vHp-yEHJg" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//Device/channel"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NgjPE6imEeGN_vHp-yEHJg" points="[-20, -9, 38, 19]$[-56, -37, 2, -9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NglEQKimEeGN_vHp-yEHJg" id="(0.37254901960784315,0.20408163265306123)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NglEQaimEeGN_vHp-yEHJg" id="(0.8559322033898306,0.20408163265306123)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_-iIcYKnAEeG7VbxXiStteQ" type="3002" source="_L_64gKXiEeGadNGEZVrtSg" target="_qhR9MKnAEeG7VbxXiStteQ">
+    <children xmi:type="notation:Node" xmi:id="_-iJqgKnAEeG7VbxXiStteQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-iJqganAEeG7VbxXiStteQ" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_-iKRkKnAEeG7VbxXiStteQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-iKRkanAEeG7VbxXiStteQ" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_-iIcYanAEeG7VbxXiStteQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-iIcYqnAEeG7VbxXiStteQ" fontColor="4210752" fontName="Lucida Grande" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="ezaudio.ecore#//AudioClip/timeTag"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-iIcY6nAEeG7VbxXiStteQ" points="[-7, -3, 358, 110]$[-310, -121, 55, -8]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-iMt0KnAEeG7VbxXiStteQ" id="(0.0784313725490196,0.2653061224489796)"/>
+  </edges>
+</notation:Diagram>

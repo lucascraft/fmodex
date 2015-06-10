@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fmodex Win32 X86
+Bundle-SymbolicName: org.fmodex.win32.x86
+Bundle-Version: 0.5.0.qualifier
+Fragment-Host: org.fmodex;bundle-version="0.5.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-PlatformFilter: (& (osgi.os=win32) (osgi.arch=x86))
+Bundle-ClassPath: lib/NativeFmodDesigner-win.jar,
+ lib/NativeFmodEx-win.jar,
+ .

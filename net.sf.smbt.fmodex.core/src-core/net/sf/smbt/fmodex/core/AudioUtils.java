@@ -113,16 +113,16 @@ public class AudioUtils {
 	
 	private Channel systemChannel;
 
+	public List<String> getMediaFilePaths() {
+		return mediaFilePaths;
+	}
 	
+
 	public static void main(String[] args) {
-		for (int i=0;i<50;i++) {
-			INSTANCE.playSound(args[0]);
-			try {
-				Thread.sleep(600);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
+		for (String mfp : AudioUtils.INSTANCE.getMediaFilePaths()) {
+			AudioUtils.INSTANCE.playSound(mfp);
 		}
+
 	}
 	
 	public AudioUtils() {
